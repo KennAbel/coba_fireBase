@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553094586278",
+    "project_id": "valleron12345",
+    "storage_bucket": "valleron12345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553094586278:android:63cd924cc9139bd59c7967",
+        "android_client_info": {
+          "package_name": "ken.abel.coba_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSdZ2nqS7y7Kc_tFPgtW-x2O3SjkB8AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
